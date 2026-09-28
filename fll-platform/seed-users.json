@@ -1,0 +1,44 @@
+[
+  {
+    "username": "nour",
+    "name": "نور",
+    "role": "coach",
+    "color": "#e0567a",
+    "passwordHash": "$2b$12$YRWqTGzneR6f0mTKLAT5uucoLBXSLfhGhaaVsGNLeZogKnIn6S3YG"
+  },
+  {
+    "username": "ibrahim",
+    "name": "إبراهيم",
+    "role": "student",
+    "color": "#3b82f6",
+    "passwordHash": "$2b$12$VlTy4EXQ1/rkSG/q2N6kpea5juq8wTwF8iHkglh/RsuW8IaVznwqa"
+  },
+  {
+    "username": "mariam",
+    "name": "مريم",
+    "role": "student",
+    "color": "#a855f7",
+    "passwordHash": "$2b$12$oGGcscj/g8kS8tGrr1tjte0.Hw9JEX257dO2cbDd8uYFfY5CYw562"
+  },
+  {
+    "username": "ahmed",
+    "name": "أحمد",
+    "role": "student",
+    "color": "#10b981",
+    "passwordHash": "$2b$12$laRGxWFziKXU0dcNAWUheO4NhRfwvbYMuOZmmmIQfDQQNMzNDNYg6"
+  },
+  {
+    "username": "hala",
+    "name": "حلا",
+    "role": "student",
+    "color": "#f59e0b",
+    "passwordHash": "$2b$12$3Svx9IA3bWAVZ5GSeAIAAukDXyk0E8d31ixleYqpnEpE9ok.7yBsC"
+  },
+  {
+    "username": "roqaya",
+    "name": "رقية",
+    "role": "student",
+    "color": "#06b6d4",
+    "passwordHash": "$2b$12$JspXUKRSpmKDfAeCX9hpRezAuH5856cKbbOhGfwxd7xDJizR1u7yq"
+  }
+]
